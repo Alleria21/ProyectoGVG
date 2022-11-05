@@ -1,5 +1,11 @@
 body {
   font-family: Jost;
+  background-image: url("../../../assets/images/background3.jpg");
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  background-color: #999;
 }
 .display-1 {
   font-family: 'Jost', sans-serif;
@@ -2676,10 +2682,8 @@ a {
 .cid-tlpLzlZ0hU {
   padding-top: 6rem;
   padding-bottom: 6rem;
-  background-image: url("../../../assets/images/background3.jpg");
 }
 .cid-tlpLzlZ0hU .mbr-overlay {
-  background: #fafafa;
   opacity: 0.6;
 }
 .cid-tlpLzlZ0hU img,
@@ -2741,10 +2745,8 @@ a {
 .cid-tlpVKtaAY3 {
   padding-top: 6rem;
   padding-bottom: 6rem;
-  background-image: url("../../../assets/images/background3.jpg");
 }
 .cid-tlpVKtaAY3 .mbr-overlay {
-  background: #fafafa;
   opacity: 0.6;
 }
 .cid-tlpVKtaAY3 img,
@@ -2804,8 +2806,8 @@ a {
   color: #bbbbbb;
 }
 .cid-tlpLLdHwhN {
-  padding-top: 2rem;
-  padding-bottom: 2rem;
+  padding-top: 4rem;
+  padding-bottom: 4rem;
   background-color: #232323;
 }
 .cid-tlpLLdHwhN .row-links {
